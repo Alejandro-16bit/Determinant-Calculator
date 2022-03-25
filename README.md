@@ -1,4 +1,4 @@
-# Determinant-Calculator
+# Matrix Determinant-Calculator
 Hello!
 My name is Alejandro and this is my final project for linear algebra. 
 The following c++ code will find the determinant of a 2x2 - 10x10 matrix. 
